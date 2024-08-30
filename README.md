@@ -35,7 +35,7 @@
 </div>
 运行成功，效果如下图
 <div align=center>
-<img src="imgs/3.png" width="720" height="420"> 
+<img src="imgs/2.png" width="720" height="420"> 
 </div>
 **Python** 代码用于快速验证图像处理流程，具有可视化结果的功能。
 
@@ -46,4 +46,8 @@
 <div align=center>
 <img src="imgs/1.png" width="720" height="420"> 
 </div>
-C++程序，我为了本地能很好地运行，使用了PGM格式的图像，你可以在[png转pgm](https://omnifile.co/zh-cn/to-pgm/)或者[万能格式转换](https://cdkm.com/cn/)，完成格式转换，但在这个Github项目上，我已经替大家完成了这一步。
+C++程序，我为了本地能很好地运行，使用了PGM格式的图像，
+
+你可以在[png转pgm](https://omnifile.co/zh-cn/to-pgm/)或者[万能格式转换](https://cdkm.com/cn/)，完成格式转换。
+
+但在这个Github项目上，我已经替大家完成了这一步。
